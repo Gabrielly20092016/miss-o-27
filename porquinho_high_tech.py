@@ -1,5 +1,5 @@
 numero = int(input("Digite um número: "))
-12
+
 
 if numero % 2 == 0:
     print("Portal 1 liberado! Número é par.")
@@ -17,4 +17,5 @@ if numero % 2 == 0:
         print("Portal 2 bloqueado! Número não é múltiplo de 3.")
         
 else:
+
     print("Portal 1 bloqueado! Número não é par.")
